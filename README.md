@@ -1,6 +1,6 @@
 # block51exercise
 
-Our old code from last week’s exercise has been updated based on the contents of the exercise (and subsequent lecture):
+Our old code from the previous exercise has been updated based on the contents of the exercise (and subsequent lecture):
 
 * We now have a separate sub-package DIT953.polygons.polygon containing the data representation.
 
