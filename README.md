@@ -24,5 +24,3 @@ Our old code from the previous exercise has been updated based on the contents o
     * Which components need to be added when we make the switch in order for us not to need to change DIT953.shapes?
 
     There is a design pattern that can be used to complete the task in question 2. You may search online to help you answer the question (or to find the name for the design pattern that you have reinvented, after you have answered it).
-
-1. Fun quiz (unrelated): The quiz package includes a Mystery class. What does it do?
